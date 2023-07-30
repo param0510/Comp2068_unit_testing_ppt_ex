@@ -39,3 +39,9 @@ describe('add function tests', () => {
     });
 
 });
+
+//EXERCISE: Build test cases for multiply function like above
+//1. multiplying works as intended
+//2. multiplying by zero yields zero
+//3. multiplying by a negative number yields a negative number
+//4. multiplying by two negative numbers yields a positive number

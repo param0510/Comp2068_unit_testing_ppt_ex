@@ -6,4 +6,6 @@ function add(a, b) {
   return a + b;
 }
 
+//EXERCISE: write a function to multiply two numbers
+
 module.exports = add;
