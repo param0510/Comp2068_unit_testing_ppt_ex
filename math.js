@@ -1,11 +1,13 @@
-// math.js
-// This file contains a simple function that will be tested by test/math.test.js file 
+//Author(s): Arin, Paramveer, Bhaumik
+//Date: 30 july 2023
+//Description: A simple coding example to demonstrate unit testing
 
 // function for adding two numbers
 function add(a, b) {
   return a + b;
 }
 
-//EXERCISE: write a function to multiply two numbers
+//EXERCISE: write a function to multiply two numbers and return it
 
+//Remember to export the function!!
 module.exports = add;

@@ -1,12 +1,15 @@
-// test/math.test.js
+//Author(s): Arin, Paramveer, Bhaumik
+//Date: 30 july 2023
+//Description: This file contains test cases prepared by us to serve as an example for explaining the
+//             concept of unit testing
 
-// this file is reponsible for testing the math.js file using chai module's 'expect' assertion library
 // importing chai module
 const chai = require('chai');
+
 // using chai module's expect assertion library
 const expect = chai.expect;
 
-// importing math.js add function
+// importing math.js from the root folder
 const add = require('../math');
 
 // building assertions for different test cases for the add function inside math.js file
